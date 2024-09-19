@@ -1,0 +1,38 @@
+{
+  "name": "@imadkurdi/hamburger-menu",
+  "version": "1.0.0",
+  "description": "This is a hamburger-menu component. A standard custom web component written in pure vanilla JS. So it could be used in any framework.",
+  "main": "hamburger-menu.js",
+  "keywords": [
+    "menu",
+    "button",
+    "icon",
+    "toggle",
+    "sidebar",
+    "navigation",
+    "navigation drawer",
+    "burger",
+    "burger-menu",
+    "burger-button",
+    "burger button",
+    "burger menu",
+    "hamburger",
+    "hamburger-menu",
+    "hamburger menu",
+    "browser",
+    "component",
+    "web component",
+    "custom element",
+    "vanilla js"
+  ],
+  "author": "Imad Kurdi",
+  "license": "MIT",
+  "homepage": "https://github.com/imadkurdi/hamburger-menu#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imadkurdi/hamburger-menu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imadkurdi/hamburger-menu/issues"
+  }
+}
