@@ -1,0 +1,24 @@
+header {
+    background-color: aliceblue;
+    padding: 2px;
+    display: flex;
+}
+
+main {
+    background-color: antiquewhite;
+    padding-block: 2rem;
+    block-size: 4rem;
+    font-size: 200%;
+    text-align: center;
+}
+
+hamburger-menu {
+    --dim: 48px;
+}
+
+::part(menu) {
+    background-color: burlywood;
+}
+::part(bar) {
+    background-color: blue;
+}
