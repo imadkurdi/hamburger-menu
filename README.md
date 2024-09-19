@@ -1,5 +1,5 @@
 # hamburger-menu component
-![component](./hamburger-menu.jpg)
+![component](./hamburger-menu.gif)
 
 This is a hamburger-menu component. A standard custom web component written in pure vanilla JS. So it could be used in any framework.
 
